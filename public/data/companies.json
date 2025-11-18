@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "1",
+    "name": "BlueNimbus Labs",
+    "industry": "Logistics",
+    "location": "Bengaluru, India",
+    "employees": 64,
+    "website": "https://bluenimbuslabs.example",
+    "description": "Sustainable food supply chain."
+  },
+  {
+    "id": "2",
+    "name": "AgroMatrix Systems",
+    "industry": "Manufacturing",
+    "location": "Jaipur, India",
+    "employees": 403,
+    "website": "https://agromatrixsystems.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "3",
+    "name": "QuantumForge Software",
+    "industry": "Software",
+    "location": "Pune, India",
+    "employees": 101,
+    "website": "https://quantumforgesoftware.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "4",
+    "name": "MedicHarvest Solutions",
+    "industry": "Healthcare",
+    "location": "Mumbai, India",
+    "employees": 389,
+    "website": "https://medicharvest.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "5",
+    "name": "FinovateX Global",
+    "industry": "Finance",
+    "location": "Ahmedabad, India",
+    "employees": 162,
+    "website": "https://finovatexglobal.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "6",
+    "name": "GreenPulse Agro",
+    "industry": "Logistics",
+    "location": "Hyderabad, India",
+    "employees": 71,
+    "website": "https://greenpulseagro.example",
+    "description": "Sustainable food supply chain."
+  },
+  {
+    "id": "7",
+    "name": "TechWeave Dynamics",
+    "industry": "Software",
+    "location": "Chennai, India",
+    "employees": 212,
+    "website": "https://techweavedynamics.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "8",
+    "name": "BioHarvest Labs",
+    "industry": "Healthcare",
+    "location": "Pune, India",
+    "employees": 398,
+    "website": "https://bioharvestlabs.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "9",
+    "name": "UrbanEdge Finance",
+    "industry": "Finance",
+    "location": "Mumbai, India",
+    "employees": 121,
+    "website": "https://urbanedgefinance.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "10",
+    "name": "AgroSphere India",
+    "industry": "Manufacturing",
+    "location": "Bengaluru, India",
+    "employees": 312,
+    "website": "https://agrosphereindia.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "11",
+    "name": "EcoLine Logistics",
+    "industry": "Logistics",
+    "location": "Hyderabad, India",
+    "employees": 83,
+    "website": "https://ecolinelogistics.example",
+    "description": "Sustainable food supply chain."
+  },
+  {
+    "id": "12",
+    "name": "SoftBridge Technologies",
+    "industry": "Software",
+    "location": "Chennai, India",
+    "employees": 176,
+    "website": "https://softbridgetech.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "13",
+    "name": "MediCore Analytics",
+    "industry": "Healthcare",
+    "location": "Pune, India",
+    "employees": 421,
+    "website": "https://medicoreanalytics.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "14",
+    "name": "FinQuest Solutions",
+    "industry": "Finance",
+    "location": "Jaipur, India",
+    "employees": 298,
+    "website": "https://finquestsolutions.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "15",
+    "name": "EduNova Global",
+    "industry": "Education",
+    "location": "Bengaluru, India",
+    "employees": 212,
+    "website": "https://edunovaglobal.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "16",
+    "name": "FarmPilot Tech",
+    "industry": "Manufacturing",
+    "location": "Kolkata, India",
+    "employees": 355,
+    "website": "https://farmpilottech.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "17",
+    "name": "UrbanShift Logistics",
+    "industry": "Logistics",
+    "location": "Ahmedabad, India",
+    "employees": 117,
+    "website": "https://urbanshiftlogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "18",
+    "name": "QuantumWorks Devs",
+    "industry": "Software",
+    "location": "Pune, India",
+    "employees": 94,
+    "website": "https://quantumworksdevs.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "19",
+    "name": "LifeCrest Healthcare",
+    "industry": "Healthcare",
+    "location": "Mumbai, India",
+    "employees": 387,
+    "website": "https://lifecresthealth.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "20",
+    "name": "FinMatrix Solutions",
+    "industry": "Finance",
+    "location": "Hyderabad, India",
+    "employees": 252,
+    "website": "https://finmatrixsolutions.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "21",
+    "name": "SkillForge Education",
+    "industry": "Education",
+    "location": "Chennai, India",
+    "employees": 142,
+    "website": "https://skillforgeedu.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "22",
+    "name": "AgroSync Foods",
+    "industry": "Manufacturing",
+    "location": "Pune, India",
+    "employees": 389,
+    "website": "https://agrosyncfoods.example",
+    "description": "Sustainable food supply chain."
+  },
+  {
+    "id": "23",
+    "name": "LogiSmart Networks",
+    "industry": "Logistics",
+    "location": "Mumbai, India",
+    "employees": 102,
+    "website": "https://logismartnetworks.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "24",
+    "name": "TechNova Cloud",
+    "industry": "Software",
+    "location": "Hyderabad, India",
+    "employees": 234,
+    "website": "https://technovacloud.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "25",
+    "name": "MediPure Systems",
+    "industry": "Healthcare",
+    "location": "Bengaluru, India",
+    "employees": 341,
+    "website": "https://medipuresystems.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "26",
+    "name": "FinEdge Capital",
+    "industry": "Finance",
+    "location": "Kolkata, India",
+    "employees": 189,
+    "website": "https://finedgecapital.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "27",
+    "name": "EduSpark Academy",
+    "industry": "Education",
+    "location": "Jaipur, India",
+    "employees": 171,
+    "website": "https://edusparkacademy.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "28",
+    "name": "AgroLine Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Chennai, India",
+    "employees": 323,
+    "website": "https://agrolinemanu.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "29",
+    "name": "MetroMove Logistics",
+    "industry": "Logistics",
+    "location": "Mumbai, India",
+    "employees": 143,
+    "website": "https://metromovelogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "30",
+    "name": "CyberNest Infotech",
+    "industry": "Software",
+    "location": "Bengaluru, India",
+    "employees": 261,
+    "website": "https://cybernestinfotech.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "31",
+    "name": "MediAxis Healthcare",
+    "industry": "Healthcare",
+    "location": "Hyderabad, India",
+    "employees": 372,
+    "website": "https://mediaxishealth.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "32",
+    "name": "FinCraft Analytics",
+    "industry": "Finance",
+    "location": "Pune, India",
+    "employees": 204,
+    "website": "https://fincraftanalytics.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "33",
+    "name": "EduPrime Learning",
+    "industry": "Education",
+    "location": "Mumbai, India",
+    "employees": 159,
+    "website": "https://eduprimelearning.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "34",
+    "name": "AgroWave Industries",
+    "industry": "Manufacturing",
+    "location": "Bengaluru, India",
+    "employees": 337,
+    "website": "https://agrowaveindustries.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "35",
+    "name": "LogiPro Connect",
+    "industry": "Logistics",
+    "location": "Pune, India",
+    "employees": 96,
+    "website": "https://logiproconnect.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "36",
+    "name": "NeuroTech Software",
+    "industry": "Software",
+    "location": "Hyderabad, India",
+    "employees": 283,
+    "website": "https://neurotechsoft.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "37",
+    "name": "HealCore Medical",
+    "industry": "Healthcare",
+    "location": "Chennai, India",
+    "employees": 412,
+    "website": "https://healcoremedical.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "38",
+    "name": "FinTrust Advisors",
+    "industry": "Finance",
+    "location": "Kolkata, India",
+    "employees": 128,
+    "website": "https://fintrustadvisors.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "39",
+    "name": "BrightMinds Academy",
+    "industry": "Education",
+    "location": "Jaipur, India",
+    "employees": 214,
+    "website": "https://brightmindsacademy.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "40",
+    "name": "FarmFlow Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Mumbai, India",
+    "employees": 305,
+    "website": "https://farmflowmanufacturing.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "41",
+    "name": "RapidRoute Logistics",
+    "industry": "Logistics",
+    "location": "Hyderabad, India",
+    "employees": 111,
+    "website": "https://rapidroutelogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "42",
+    "name": "CloudSync Systems",
+    "industry": "Software",
+    "location": "Bengaluru, India",
+    "employees": 174,
+    "website": "https://cloudsyncsystems.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "43",
+    "name": "VitalEdge Healthcare",
+    "industry": "Healthcare",
+    "location": "Jaipur, India",
+    "employees": 398,
+    "website": "https://vitaledgehealth.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "44",
+    "name": "FinOptima Capital",
+    "industry": "Finance",
+    "location": "Chennai, India",
+    "employees": 246,
+    "website": "https://finoptimacapital.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "45",
+    "name": "EduMentor SchoolTech",
+    "industry": "Education",
+    "location": "Pune, India",
+    "employees": 131,
+    "website": "https://edumentorschooltech.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "46",
+    "name": "AgroBloom India",
+    "industry": "Manufacturing",
+    "location": "Mumbai, India",
+    "employees": 392,
+    "website": "https://agrobloomindia.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "47",
+    "name": "LogiChain Express",
+    "industry": "Logistics",
+    "location": "Chennai, India",
+    "employees": 124,
+    "website": "https://logichainexpress.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "48",
+    "name": "TechNest Solutions",
+    "industry": "Software",
+    "location": "Mumbai, India",
+    "employees": 287,
+    "website": "https://technestsolutions.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "49",
+    "name": "HealWorks LifeCare",
+    "industry": "Healthcare",
+    "location": "Hyderabad, India",
+    "employees": 352,
+    "website": "https://healworkslifecare.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "50",
+    "name": "CapitalSphere Finance",
+    "industry": "Finance",
+    "location": "Ahmedabad, India",
+    "employees": 203,
+    "website": "https://capitalspherefinance.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "51",
+    "name": "EduPilot Learning Hub",
+    "industry": "Education",
+    "location": "Kolkata, India",
+    "employees": 177,
+    "website": "https://edupilotlearninghub.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "52",
+    "name": "AgroNova Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Bengaluru, India",
+    "employees": 318,
+    "website": "https://agronovamanu.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "53",
+    "name": "SwiftMove Logistics",
+    "industry": "Logistics",
+    "location": "Pune, India",
+    "employees": 97,
+    "website": "https://swiftmovelogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "54",
+    "name": "CodeSphere Tech",
+    "industry": "Software",
+    "location": "Chennai, India",
+    "employees": 268,
+    "website": "https://codespheretech.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "55",
+    "name": "BioSync Wellness",
+    "industry": "Healthcare",
+    "location": "Mumbai, India",
+    "employees": 427,
+    "website": "https://biosyncwellness.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "56",
+    "name": "FinBridge Advisors",
+    "industry": "Finance",
+    "location": "Hyderabad, India",
+    "employees": 185,
+    "website": "https://finbridgeadvisors.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "57",
+    "name": "EduWave India",
+    "industry": "Education",
+    "location": "Jaipur, India",
+    "employees": 163,
+    "website": "https://eduwaveindia.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "58",
+    "name": "AgroVerse Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Kolkata, India",
+    "employees": 361,
+    "website": "https://agroversemanufacturing.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "59",
+    "name": "TransLogi Systems",
+    "industry": "Logistics",
+    "location": "Mumbai, India",
+    "employees": 134,
+    "website": "https://translogisystems.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "60",
+    "name": "SkyNetSoft Technologies",
+    "industry": "Software",
+    "location": "Bengaluru, India",
+    "employees": 247,
+    "website": "https://skynetsofttech.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "61",
+    "name": "MediFusion HealthTech",
+    "industry": "Healthcare",
+    "location": "Chennai, India",
+    "employees": 364,
+    "website": "https://medifusionhealthtech.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "62",
+    "name": "FinVerse Capital",
+    "industry": "Finance",
+    "location": "Hyderabad, India",
+    "employees": 209,
+    "website": "https://finversecapital.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "63",
+    "name": "LearnMatrix Academy",
+    "industry": "Education",
+    "location": "Mumbai, India",
+    "employees": 182,
+    "website": "https://learnmatrixacademy.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "64",
+    "name": "AgroPeak Industries",
+    "industry": "Manufacturing",
+    "location": "Bengaluru, India",
+    "employees": 322,
+    "website": "https://agropeakindustries.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "65",
+    "name": "MovePro Logistics",
+    "industry": "Logistics",
+    "location": "Pune, India",
+    "employees": 118,
+    "website": "https://moveprologistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "66",
+    "name": "SoftCore Innovations",
+    "industry": "Software",
+    "location": "Kolkata, India",
+    "employees": 291,
+    "website": "https://softcoreinnovations.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "67",
+    "name": "HealthBridge Medical",
+    "industry": "Healthcare",
+    "location": "Hyderabad, India",
+    "employees": 407,
+    "website": "https://healthbridgemedical.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "68",
+    "name": "FinPilot Ventures",
+    "industry": "Finance",
+    "location": "Chennai, India",
+    "employees": 176,
+    "website": "https://finpilotventures.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "69",
+    "name": "EduGenius SchoolTech",
+    "industry": "Education",
+    "location": "Pune, India",
+    "employees": 199,
+    "website": "https://edugeniusschooltech.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "70",
+    "name": "AgroMotive Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Mumbai, India",
+    "employees": 341,
+    "website": "https://agromotivemanu.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "71",
+    "name": "RouteMax Logistics",
+    "industry": "Logistics",
+    "location": "Kolkata, India",
+    "employees": 138,
+    "website": "https://routemaxlogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "72",
+    "name": "TechHive Software",
+    "industry": "Software",
+    "location": "Bengaluru, India",
+    "employees": 257,
+    "website": "https://techhivesoftware.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "73",
+    "name": "HealSync Medical",
+    "industry": "Healthcare",
+    "location": "Jaipur, India",
+    "employees": 392,
+    "website": "https://healsyncmedical.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "74",
+    "name": "PrimeFin Capital",
+    "industry": "Finance",
+    "location": "Pune, India",
+    "employees": 233,
+    "website": "https://primefincapital.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "75",
+    "name": "EduQuest Learning",
+    "industry": "Education",
+    "location": "Hyderabad, India",
+    "employees": 165,
+    "website": "https://eduquestlearning.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "76",
+    "name": "AgroLogic India",
+    "industry": "Manufacturing",
+    "location": "Chennai, India",
+    "employees": 328,
+    "website": "https://agrologicindia.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "77",
+    "name": "MoveLink Logistics",
+    "industry": "Logistics",
+    "location": "Bengaluru, India",
+    "employees": 109,
+    "website": "https://movelinklogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "78",
+    "name": "LogicWave Tech",
+    "industry": "Software",
+    "location": "Jaipur, India",
+    "employees": 279,
+    "website": "https://logicwavetech.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "79",
+    "name": "HealthMatrix Care",
+    "industry": "Healthcare",
+    "location": "Mumbai, India",
+    "employees": 426,
+    "website": "https://healthmatrixcare.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "80",
+    "name": "AlphaFin Partners",
+    "industry": "Finance",
+    "location": "Hyderabad, India",
+    "employees": 214,
+    "website": "https://alphafinpartners.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "81",
+    "name": "EliteLearn Education",
+    "industry": "Education",
+    "location": "Chennai, India",
+    "employees": 149,
+    "website": "https://elitelearnedu.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "82",
+    "name": "FarmLink Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Pune, India",
+    "employees": 347,
+    "website": "https://farmlinkmanufacturing.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "83",
+    "name": "SpeedShift Logistics",
+    "industry": "Logistics",
+    "location": "Mumbai, India",
+    "employees": 112,
+    "website": "https://speedshiftlogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "84",
+    "name": "NetFusion Labs",
+    "industry": "Software",
+    "location": "Hyderabad, India",
+    "employees": 266,
+    "website": "https://netfusionlabs.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "85",
+    "name": "HealNova Healthcare",
+    "industry": "Healthcare",
+    "location": "Kolkata, India",
+    "employees": 401,
+    "website": "https://healnovahealth.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "86",
+    "name": "FinEra Capital",
+    "industry": "Finance",
+    "location": "Chennai, India",
+    "employees": 187,
+    "website": "https://finera-capital.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "87",
+    "name": "EduCraft Institute",
+    "industry": "Education",
+    "location": "Jaipur, India",
+    "employees": 158,
+    "website": "https://educraftinstitute.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "88",
+    "name": "AgroFusion Tech",
+    "industry": "Manufacturing",
+    "location": "Mumbai, India",
+    "employees": 311,
+    "website": "https://agrofusiontech.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "89",
+    "name": "RouteNet Logistics",
+    "industry": "Logistics",
+    "location": "Chennai, India",
+    "employees": 141,
+    "website": "https://routenetlogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "90",
+    "name": "CodeForge Technologies",
+    "industry": "Software",
+    "location": "Pune, India",
+    "employees": 284,
+    "website": "https://codeforgetech.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "91",
+    "name": "HealthCrest Medical Systems",
+    "industry": "Healthcare",
+    "location": "Mumbai, India",
+    "employees": 417,
+    "website": "https://healthcrestmed.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "92",
+    "name": "FinMatrix Global",
+    "industry": "Finance",
+    "location": "Pune, India",
+    "employees": 198,
+    "website": "https://finmatrixglobal.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "93",
+    "name": "EduQuest Global Academy",
+    "industry": "Education",
+    "location": "Chennai, India",
+    "employees": 155,
+    "website": "https://eduquestglobalacademy.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "94",
+    "name": "AgroNext Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Hyderabad, India",
+    "employees": 344,
+    "website": "https://agronextmanufacturing.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "95",
+    "name": "CargoExpress Logistics",
+    "industry": "Logistics",
+    "location": "Mumbai, India",
+    "employees": 129,
+    "website": "https://cargoexpresslogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "96",
+    "name": "TechVerse Innovations",
+    "industry": "Software",
+    "location": "Bengaluru, India",
+    "employees": 272,
+    "website": "https://techverseinnovations.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "97",
+    "name": "LifeSync Healthcare",
+    "industry": "Healthcare",
+    "location": "Ahmedabad, India",
+    "employees": 396,
+    "website": "https://lifesynchealth.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "98",
+    "name": "FinBridge Global Partners",
+    "industry": "Finance",
+    "location": "Hyderabad, India",
+    "employees": 224,
+    "website": "https://finbridgeglobalpartners.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "99",
+    "name": "LearnScape Academy",
+    "industry": "Education",
+    "location": "Mumbai, India",
+    "employees": 173,
+    "website": "https://learnscapeacademy.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "100",
+    "name": "AgroEdge Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Bengaluru, India",
+    "employees": 327,
+    "website": "https://agroedgemanufacturing.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "101",
+    "name": "LogiLink Global",
+    "industry": "Logistics",
+    "location": "Jaipur, India",
+    "employees": 152,
+    "website": "https://logilinkglobal.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "102",
+    "name": "CodeSprint Technologies",
+    "industry": "Software",
+    "location": "Hyderabad, India",
+    "employees": 293,
+    "website": "https://codesprinttechnologies.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "103",
+    "name": "MediFlow HealthTech",
+    "industry": "Healthcare",
+    "location": "Chennai, India",
+    "employees": 378,
+    "website": "https://mediflowhealthtech.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "104",
+    "name": "PrimeCapital Finance",
+    "industry": "Finance",
+    "location": "Pune, India",
+    "employees": 239,
+    "website": "https://primecapitalfinance.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "105",
+    "name": "EduBeacon Institute",
+    "industry": "Education",
+    "location": "Kolkata, India",
+    "employees": 164,
+    "website": "https://edubeaconinstitute.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "106",
+    "name": "AgroCraft Industries",
+    "industry": "Manufacturing",
+    "location": "Mumbai, India",
+    "employees": 356,
+    "website": "https://agrocraftindustries.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "107",
+    "name": "RouteWay Logistics",
+    "industry": "Logistics",
+    "location": "Hyderabad, India",
+    "employees": 118,
+    "website": "https://routewaylogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "108",
+    "name": "NextGen Software Labs",
+    "industry": "Software",
+    "location": "Bengaluru, India",
+    "employees": 256,
+    "website": "https://nextgensoftwarelabs.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "109",
+    "name": "HealthNova Care",
+    "industry": "Healthcare",
+    "location": "Kolkata, India",
+    "employees": 409,
+    "website": "https://healthnovacare.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "110",
+    "name": "FinScope Advisors",
+    "industry": "Finance",
+    "location": "Jaipur, India",
+    "employees": 205,
+    "website": "https://finscopeadvisors.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "111",
+    "name": "EduVibe Academy",
+    "industry": "Education",
+    "location": "Hyderabad, India",
+    "employees": 171,
+    "website": "https://eduvibeacademy.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "112",
+    "name": "AgroPrime Solutions",
+    "industry": "Manufacturing",
+    "location": "Chennai, India",
+    "employees": 338,
+    "website": "https://agoprimesolutions.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "113",
+    "name": "SwiftRoute Logistics",
+    "industry": "Logistics",
+    "location": "Bengaluru, India",
+    "employees": 125,
+    "website": "https://swiftroute.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "114",
+    "name": "SkyLogic Software",
+    "industry": "Software",
+    "location": "Pune, India",
+    "employees": 286,
+    "website": "https://skylogicsoftware.example",
+    "description": "AI-driven healthcare analytics."
+  },
+  {
+    "id": "115",
+    "name": "CareSync Health",
+    "industry": "Healthcare",
+    "location": "Mumbai, India",
+    "employees": 420,
+    "website": "https://caresynchealth.example",
+    "description": "Advanced manufacturing tech."
+  },
+  {
+    "id": "116",
+    "name": "FundHive Capital",
+    "industry": "Finance",
+    "location": "Bengaluru, India",
+    "employees": 227,
+    "website": "https://fundhivecapital.example",
+    "description": "Cloud-native fintech solutions."
+  },
+  {
+    "id": "117",
+    "name": "EduSpark LearnTech",
+    "industry": "Education",
+    "location": "Chennai, India",
+    "employees": 168,
+    "website": "https://edusparklearntech.example",
+    "description": "EdTech learning platform."
+  },
+  {
+    "id": "118",
+    "name": "AgroMotion Industries",
+    "industry": "Manufacturing",
+    "location": "Hyderabad, India",
+    "employees": 364,
+    "website": "https://agromotionindustries.example",
+    "description": "IoT-enabled farm monitoring."
+  },
+  {
+    "id": "119",
+    "name": "RouteGear Logistics",
+    "industry": "Logistics",
+    "location": "Kolkata, India",
+    "employees": 134,
+    "website": "https://routegearlogistics.example",
+    "description": "Smart logistics SaaS."
+  },
+  {
+    "id": "120",
+    "name": "CodeBridge Innovations",
+    "industry": "Software",
+    "location": "Mumbai, India",
+    "employees": 295,
+    "website": "https://codebridgeinnovations.example",
+    "description": "AI-driven healthcare analytics."
+  }
+]
+

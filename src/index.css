@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom right, #E4ECFF, #F3F8FF);
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: #0F172A;
+}
+
+* {
+  @apply transition-all duration-300 ease-out;
+}
+
+html {
+  text-size-adjust: 100%;
+}
+
+input, select {
+  @apply focus:outline-none focus:ring-2 focus:ring-indigo-500/40;
+}
+
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-up {
+  animation: fadeUp 0.45s ease-out;
+}
+.glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+
+.dark .glass {
+  background: rgba(30, 41, 59, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.card-glow:hover {
+  box-shadow: 0 8px 30px rgba(79, 70, 229, 0.25);
+  transform: translateY(-4px);
+}
+
+
+
+
+@keyframes dropdownFade {
+  0% { opacity: 0; transform: translateY(6px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.animate-dropdownFade {
+  animation: dropdownFade 0.15s ease-out;
+}
