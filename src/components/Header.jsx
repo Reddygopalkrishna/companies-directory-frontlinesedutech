@@ -4,7 +4,7 @@ const Header = ()=> {
   return (
     <header className="sticky top-0 z-50 backdrop-blur-xl border-b border-white/20 shadow-[0_4px_20px_rgba(0,0,0,0.15)]">
 
-      <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-[length:300%_300%] animate-gradientMove opacity-90"></div>
+      <div className="absolute inset-0 bg-gradient-to-r from-indigo-600 via-purple-700 to-pink-600 bg-[length:300%_300%] animate-gradientMove opacity-90"></div>
 
       <div className="relative max-w-7xl mx-auto px-6 py-4 flex items-center gap-4">
 

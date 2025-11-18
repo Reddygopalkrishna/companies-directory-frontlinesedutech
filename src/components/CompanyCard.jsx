@@ -9,8 +9,10 @@ const CompanyCard = ({ company }) => {
         relative
         rounded-3xl
         p-8
-        transition-all duration-500 ease-out bg-gradient-to-br from-white border border-white/60 shadow-[0_8px_32px_rgba(99,102,241,0.08),0_2px_8px_rgba(0,0,0,0.04)]
+        transition-all duration-500 ease-out bg-gradient-to-br from-white backdrop-blur-2xl border border-white/60 shadow-[0_8px_32px_rgba(99,102,241,0.08),0_2px_8px_rgba(0,0,0,0.04)]
+        hover:shadow-[0_20px_60px_rgba(99,102,241,0.15),0_8px_20px_rgba(0,0,0,0.06)]
         hover:-translate-y-2
+        hover:border-indigo-200/60
         after:absolute after:inset-0 after:rounded-3xl
         after:bg-gradient-to-br after:from-white/40 after:to-transparent
         after:pointer-events-none after:opacity-0
@@ -53,7 +55,7 @@ const CompanyCard = ({ company }) => {
         <div className="flex items-center justify-between">
         
           <div className="flex items-center gap-3">
-            <div className="flex items-center justify-center w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-300 to-purple-500 shadow-lg shadow-indigo-500/25">
+            <div className="flex items-center justify-center w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-purple-600 shadow-lg shadow-indigo-500/25">
               <Users size={18} strokeWidth={2.5} className="text-white" />
             </div>
             <div className="flex flex-col">
@@ -63,7 +65,7 @@ const CompanyCard = ({ company }) => {
           </div>
 
       
-          <a
+<a
             href={company.website}
             target="_blank"
             rel="noopener noreferrer"
@@ -72,7 +74,7 @@ const CompanyCard = ({ company }) => {
               flex items-center gap-2 
               px-5 py-2.5
               rounded-xl
-              bg-gradient-to-r from-indigo-400 to-purple-400
+              bg-gradient-to-r from-indigo-600 to-purple-600
               text-white font-semibold text-sm
               shadow-lg shadow-indigo-500/30
               hover:shadow-xl hover:shadow-indigo-500/40
