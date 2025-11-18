@@ -1,4 +1,4 @@
-import React, { useContext, useMemo, useState } from "react";
+import React, { useContext, useEffect,useMemo, useState } from "react";
 import CompanyCard from "./CompanyCard";
 import Pagination from "./Pagination";
 import Loader from "./Loader";
@@ -11,6 +11,10 @@ const CompanyList = ({ companies, loading, error }) =>{
   const { search, industry, location, sortBy } = useContext(FiltersContext);
   const [page, setPage] = useState(1);
   const perPage = 6;
+
+  useEffect(() => {
+    setPage(1);
+  }, [search, industry, location, sortBy]);
 
 
   const filtered = useMemo(() => {
@@ -31,11 +35,15 @@ if (location !== "All" && location !== "Location") {
   list = list.filter((c) => c.location === location);
 }
 
-    if (sortBy === "name-asc") {
-      list.sort((a, b) => a.name.localeCompare(b.name));
-    } else {
-      list.sort((a, b) => b.name.localeCompare(a.name));
-    }
+   // Sorting (only apply when user chooses)
+if (sortBy === "name-asc") {
+  list.sort((a, b) => a.name.localeCompare(b.name));
+}
+
+if (sortBy === "name-desc") {
+  list.sort((a, b) => b.name.localeCompare(a.name));
+}
+
 
     return list;
   }, [companies, search, industry, location, sortBy]);
