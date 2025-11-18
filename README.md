@@ -1,8 +1,5 @@
 # 🏢 Companies Directory — Frontend Assessment (Frontlines Edutech)
 
-A clean, modern, fully responsive **React + Vite + TailwindCSS** application that displays, filters, sorts, and paginates company data.
-
-This project was built as part of the **Frontend Developer assignment** for Frontlines Edutech.
 
 ---
 
@@ -162,4 +159,5 @@ Creates a premium, modern, polished look suitable for a professional dashboard.
 
 Thank you for reviewing this assignment.  
 I thoroughly enjoyed building it and would be happy to discuss further in the next round.
+
 
